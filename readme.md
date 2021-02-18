@@ -84,6 +84,6 @@ Picked Windows Form with ViewState design to make the setup process easier, the 
 
 
 
-![Address Updated](Address Updated.png)
+![Address Updated](./Address Updated.png)
 
-![Address Updated2](Address Updated2.png)
+![Address Updated2](./Address Updated2.png)
