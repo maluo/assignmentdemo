@@ -4,7 +4,7 @@
 
 # Email: james.luo.3131@gmail.com
 
-# Github:
+# Github: https://github.com/maluo/assignmentdemo
 
 Programming is about data structure and algorithm design.  So, regardless of reading business requirement and design our interfaces and class libraries, data types and data source would be first step.
 
